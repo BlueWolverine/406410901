@@ -1,7 +1,7 @@
 # css dinner
 04. plate > apple
-05.fancy pickle
-06. small
+05.#fancy pickle
+06. .small
 07. orange.small
 08. bento orange.small
 09. plate, bento
